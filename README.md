@@ -74,4 +74,4 @@ The program demonstrates soil moisture monitoring and automatic water pump contr
 - Automatic irrigation scheduling.
 
 
-**Note:** The original source code was unavailable. The accompanying Arduino program is a reconstructed representative implementation based on the available project information, not the verified original program.
+

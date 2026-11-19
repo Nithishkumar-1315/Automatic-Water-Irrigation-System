@@ -49,6 +49,16 @@ This project demonstrates the application of embedded systems, sensor-based moni
 - Soil Moisture Sensing
 - Relay-Based Pump Control
 
+  ## Arduino Source Code
+
+The Arduino source code for the Automatic Water Irrigation System is available in the following directory:
+
+[View Arduino Source Code](Arduino_Code/Automatic_Water_Irrigation.ino)
+
+The program demonstrates soil moisture monitoring and automatic water pump control using an Arduino UNO and relay module.
+
+**Note:** This is a reconstructed representative implementation based on the available project information, not the verified original source code.
+
 ## Applications
 
 - Home gardening

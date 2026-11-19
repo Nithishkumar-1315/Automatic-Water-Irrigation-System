@@ -36,11 +36,11 @@ This project demonstrates the application of embedded systems, sensor-based moni
 
 ## Circuit Diagram
 
-![Automatic Water Irrigation System Circuit Diagram](Images/automatic-irrigation-circuit.png)
+![Automatic Water Irrigation System Circuit Diagram](./Images/automatic-irrigation-circuit.png.png)
 
 ## Project Prototype
 
-![Automatic Water Irrigation System Prototype](Images/automatic-water-irrigation-system.jpg)
+![Automatic Water Irrigation System Prototype](./Images/automatic-water-irrigation-system.jpg.jpeg)
 
 ## Technologies Used
 
